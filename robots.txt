@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neeil1990.github.io/archive-xqwod6/sitemap.xml
